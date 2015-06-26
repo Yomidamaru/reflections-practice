@@ -1,0 +1,22 @@
+Seeing the two versions side by side made spotting the bug obvious.
+Having the full history of a document and it's changes
+make it easier to know when bugs were created and to fix them.
+Manual commits help make logical changes but opens up to human error.
+Auto save lose logical saves but ensures a log
+VC like git save multiple files in one commit because alot of code is interrelated 
+commit b0678b161fcf74467ed3a63110557e3d6229cfa6
+
+commit f19cb1b80fe27e938e4d72770ca0a42f25e99ecc
+
+git config --global color.ui auto
+
+git log and git diff can be used to navigate through a documents history
+
+How might using version control make you more confident to make changes that could break something? VC allows you to play around more, knowing that you can always go back
+
+Now that you have your workspace set up, what do you want to try using Git for?
+...figuring out how to use git hub
+
+pp rc fa4c6bade4970c282b3870ad16f1bde8164663a9
+
+547f4171a82ec6429d002c1acef357aec41d3f17
