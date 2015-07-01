@@ -5,3 +5,9 @@ When collaberating with others or as a means of backing up your repository.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 To ensure that you only pull commits that improve the master. Or  so can can break off on your own an create something different.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks-GitHub "clones" a remote repository on their server  that is separate from the original, now allowing you to make your own changes without affecting the original, while still linking back to it.
+Clones- Copy of repository.
+Branches- Different paths of a file that exist within a repository. 
